@@ -25,13 +25,14 @@ button,
   white-space: normal;
 }
 
-@media (max-width: 45%) {
+@media (max-width: 100%) {
   button,
   .btn {
     width: 100%;
     font-size: 15px;
   }
 }
+
 
 
 
