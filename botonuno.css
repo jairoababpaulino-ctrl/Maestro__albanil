@@ -1,26 +1,4 @@
-@media (max-width: 768px) {
-	.menu {
-		width: 100%;
-		flex-direction: colum;
-		text-align: center;
-	}
-	
-	nav a {
-		margin: 5px 0;
-	}
-}
-* {
-  box-sizing: border-box;
-}
 
-body {
-  margin: 0;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
 
 .boton.uno::after {
 	content: "";
@@ -46,6 +24,7 @@ button,
   max-width: 100%;
   white-space: normal;
 }
+
 
 
 
