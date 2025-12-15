@@ -18,10 +18,11 @@
 }
 button,
 .btn {
-  padding: 12px 16px;
-  font-size: 16px;
+  padding: 12px 35px;
+  font-size: 35px;
   width: auto;
   max-width: 100%;
   white-space: normal;
 }
+
 
