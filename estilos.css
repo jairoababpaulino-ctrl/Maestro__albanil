@@ -71,14 +71,6 @@ img {
 	z-index: 2;
 	transition: .3s ease all;
 }
-@media (max-width: 768px) {
-  button,
-  .btn {
-    width: 100%;
-    font-size: 15px;
-  }
-}
-
 
 
 
