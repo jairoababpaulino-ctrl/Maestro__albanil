@@ -17,7 +17,7 @@
 
 }
 button,
-.btn {
+.boton.uno {
   padding: 15px 15px;
   font-size: 15px;
   width: auto;
@@ -31,6 +31,7 @@ button,
     font-size: 15px;
   }
 }
+
 
 
 
