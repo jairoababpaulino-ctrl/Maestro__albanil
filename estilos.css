@@ -50,7 +50,7 @@ img {
 	.boton.uno {
 		with: 80%;
 		font-size: 15px;
-		padding: 15px;
+		padding: 5px;
 	}
 }
 
@@ -63,6 +63,7 @@ img {
 	z-index: 2;
 	transition: .3s ease all;
 }
+
 
 
 
