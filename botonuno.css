@@ -26,11 +26,12 @@ button,
 }
 
 @media (max-width: 100%) {
-  .boton {
+  .boton.uno {
     width: 100%;
     font-size: 15px;
   }
 }
+
 
 
 
