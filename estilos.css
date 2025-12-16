@@ -45,7 +45,7 @@ img {
 @media (max-width: 600px) {
 	.boton.uno {
 	margin-top: 40px;
-	width: 190px;
+	width: 100%;
 	}
 }
 
@@ -58,6 +58,7 @@ img {
 	z-index: 2;
 	transition: .3s ease all;
 }
+
 
 
 
