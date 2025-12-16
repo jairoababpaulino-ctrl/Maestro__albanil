@@ -11,6 +11,7 @@
 	align-items: center;
 	z-index: 1000;
 }
+
 body {
 	margin: 0;
 	padding-top: 165px;
@@ -46,9 +47,11 @@ img {
 	overflow: hidden;
 	
 }
+
 @media (max-width: 600px) {
 	.boton.uno {
 	margin-top: 40px;
+	width: 100%
 	}
 }
 
@@ -61,6 +64,7 @@ img {
 	z-index: 2;
 	transition: .3s ease all;
 }
+
 
 
 
