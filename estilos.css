@@ -45,7 +45,7 @@ img {
 @media (max-width: 600px) {
 	.boton.uno {
 	margin-top: 40px;
-	width: 100%
+	width: 40px;
 	}
 }
 
@@ -53,11 +53,12 @@ img {
 	color: white;
 }
 
-.boton span{
+.boton span {
 	position: relative;
 	z-index: 2;
 	transition: .3s ease all;
 }
+
 
 
 
